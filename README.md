@@ -30,4 +30,5 @@ The app is built using MVVM Clean Architecture, which consists of the following 
 ### ScreenShots
 
 <img width="313" alt="Screen Shot 2023-04-10 at 8 14 17 PM" src="https://user-images.githubusercontent.com/54603399/231034683-769e3649-1003-4c45-8634-493cd2503711.png">
-<img width="313" alt="Screen Shot 2023-04-10 at 8 14 26 PM" src="https://user-images.githubusercontent.com/54603399/231034753-89d498d9-814b-40c6-8ed3-c73d383d4b1d.png">
+<img width="289" alt="Screen Shot 2023-04-10 at 9 55 04 PM" src="https://user-images.githubusercontent.com/54603399/231035434-922ff035-8d8e-4776-8c4e-e70762358eee.png">
+
