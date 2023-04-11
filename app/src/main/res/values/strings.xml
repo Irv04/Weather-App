@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Weather-App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="humidity">Humidity</string>
+    <string name="search_hint">Enter City</string>
+    <string name="enable_gps">Enable your GPS and restart!</string>
+    <string name="location_permission">Location Permission</string>
+    <string name="access_location_message">This application requires access to your location to function</string>
+    <string name="no">No</string>
+    <string name="ask_me">Ask me again</string>
+    <string name="gps_required_message">GPS is required for this application to function</string>
+</resources>
